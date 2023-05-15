@@ -11,6 +11,5 @@ public class Main {
             return arr;
         }
     public static void task1() {
-        int[] arr = generateRandomArray();
     }
 }
